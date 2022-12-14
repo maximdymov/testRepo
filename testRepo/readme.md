@@ -1,4 +1,4 @@
 Hello!
 New text
-
-fix3;
+New text blablabla
+fix3; fix4;
